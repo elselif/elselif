@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋,I'm Elif</h1>
 <h3 align="center">we'll keep coding</h3>
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently learning **ASP .NET CORE MVC**
 
 - 📫 How to reach me **codelhands@gmail.com**
 
