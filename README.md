@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋,I'm Elif</h1>
 <h3 align="center">we'll keep coding</h3>
 
-- 🌱 I’m currently learning ASP.NET CORE - REACT - EF CORE 
+- 🌱 I’m currently learning REACT - NODE.JS
 
 - 📫 How to reach me **codelhands@gmail.com**
 
