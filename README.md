@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elif Emre</h1>
 - 🔭 I’m currently working on **HDG PLUS**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **elifemre_@outlook.com**
 
