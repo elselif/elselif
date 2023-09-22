@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on HDG Plus<br><br>🌱 I’m currently learning  Laravel
+🔭 I’m currently working on Huawei Developer Groups Plus<br><br>🌱 I’m currently learning  Laravel
 
 
 ## 🌐 Socials:
