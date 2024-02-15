@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Huawei Developer Groups Plus<br><br>🌱 I’m currently learning  Laravel
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elif-emre) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@elselif) 
